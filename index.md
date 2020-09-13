@@ -18,11 +18,11 @@ Developed using C++ object oriented programming concepts.
 ![](https://github.com/namanjakhetiya/LUDO-Twist/blob/master/Images/LT3.png)
 
 
-### 4. Player can chosse there own names.
+### 4. Player can choose there own names.
 ![](https://github.com/namanjakhetiya/LUDO-Twist/blob/master/Images/LT4.png)
 
 
-### 5. For the creating drama in game you can predict the number on dice. 
+### 5. For creating drama in the game you can predict the number on dice. 
 ![](https://github.com/namanjakhetiya/LUDO-Twist/blob/master/Images/LT5.png)
 
 
@@ -30,5 +30,5 @@ Developed using C++ object oriented programming concepts.
 ![](https://github.com/namanjakhetiya/LUDO-Twist/blob/master/Images/LT7.png)
 
 
-### 7. Real twist begins when your prediction goes right.
+### 7. The real twist begins when your prediction goes right.
 ![](https://github.com/namanjakhetiya/LUDO-Twist/blob/master/Images/LT6%268.png)
